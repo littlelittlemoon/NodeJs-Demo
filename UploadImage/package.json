@@ -1,7 +1,7 @@
 {
   "name": "nodejsdemo",
   "version": "1.0.0",
-  "description": "",
+  "description": "NodeJs demo for understanding node.js, event driving, blocking and non-blocking and so on.",
   "main": "index.js",
   "dependencies": {
     "formidable": "^1.2.2"
@@ -11,6 +11,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "Kayleen",
   "license": "ISC"
 }
